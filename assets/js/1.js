@@ -13,7 +13,7 @@
         }
     }
 
-    console.log(`UkrAvtoDorDays: ${UkrAvtoDorDays}`);
+    console.log(`UkrAvtoDorDays: ${UkrAvtoDorDays} days.`);
 
 
     
