@@ -15,7 +15,7 @@
         }
     }
     
-    result.innerHTML = UkrAvtoDorDays;
+        result.innerHTML = UkrAvtoDorDays;
 }
 
 
